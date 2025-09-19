@@ -7,6 +7,8 @@ Specializing in **Pharo** & **Smalltalk**
 
 ## 🌟 Featured Projects
 
+- [Cavrois]
+  A profile configuration system for users to gain time and productivity doing tasks using Pharo tools
 
 - [NewTools](https://github.com/pharo-spec/NewTools)  
   Next-generation tools for Pharo development.
