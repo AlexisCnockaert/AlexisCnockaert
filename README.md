@@ -23,8 +23,11 @@ Specializing in **Pharo** & **Smalltalk**
 
 <a href="https://github.com/jstrieb/github-stats" align="center">
 
-![](https://raw.githubusercontent.com/AlexisCnockaert/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AlexisCnockaert/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisCnockaert&count_private=true&hide=stars&show_icons=true&theme=gruvbox-duo&include_all_commits=true" alt="AlexisCnockaert" />  
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisCnockaert&theme=gruvbox-duo" alt="AlexisCnockaert" /></p>
+</p>
+
 
 </a>
 
