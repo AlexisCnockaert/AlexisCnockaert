@@ -25,8 +25,3 @@ Specializing in **Pharo** & **Smalltalk**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexisCnockaert-blue?logo=linkedin)](https://www.linkedin.com/in/AlexisCnockaert)
 
----
-
-# Task Manager API
-![Build](https://github.com/ton-user/task-manager/actions/workflows/ci.yml/badge.svg)
-
