@@ -25,6 +25,6 @@ Specializing in **Pharo** & **Smalltalk**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexisCnockaert-blue?logo=linkedin)](https://www.linkedin.com/in/AlexisCnockaert)
 
-
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisCnockaert)](https://github.com/anuraghazra/github-readme-stats)
