@@ -1,7 +1,7 @@
 # 👋 Hi
 
 **Software Engineer** · **Open Source Contributor**  
-Specializing in **Pharo** & **Smalltalk**
+**Smalltalk** / **UX** 
 
 ---
 
