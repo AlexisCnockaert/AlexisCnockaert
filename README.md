@@ -9,6 +9,7 @@
 
 - [Cavrois]
   A profile configuration system for users to gain time and productivity doing tasks using Pharo tools
+  Presented at ESUG 2025 (Poland).
 
 - [NewTools](https://github.com/pharo-spec/NewTools)  
   Next-generation tools for Pharo development.
