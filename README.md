@@ -1,8 +1,4 @@
 # 👋 Hi
-
-**Software Engineer** · **Open Source Contributor**  
-**Smalltalk** / **UX** 
-
 ---
 
 ## 🌟 Featured Projects
