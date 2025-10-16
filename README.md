@@ -1,6 +1,6 @@
 # 👋 Hi
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### [Cavrois]
 A configuration management system for Pharo IDE that enables developers to save and restore personalized working environments, eliminating repetitive setup when switching between projects or tasks.
