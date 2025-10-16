@@ -2,7 +2,7 @@
 
 ## 🌟 Featured Projects
 
-- [Cavrois]
+### [Cavrois]
 A configuration management system for Pharo IDE that enables developers to save and restore personalized working environments, eliminating repetitive setup when switching between projects or tasks.
 
 **What I Built:**
@@ -23,7 +23,7 @@ A configuration management system for Pharo IDE that enables developers to save 
 
 [📂 Source Code](https://github.com/pharo-spec/NewTools) 
 
-- [ToDone]
+### [ToDone]
   - A Spring Boot/React application that handles a To Do List and guide the users precisely generating steps for each todo with AI
   (https://github.com/AlexisCnockaert/react-springboot-todolist)
 
