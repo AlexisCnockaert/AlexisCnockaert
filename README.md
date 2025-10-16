@@ -11,11 +11,7 @@ A configuration management system for Pharo IDE that enables developers to save 
 - Persistent storage for user settings with quick profile switching
 - Improved developer productivity by reducing context-switching overhead
 
-**Technical Approach:**
-- Clean separation of concerns (backend/frontend architecture)
-- Object-oriented design principles
-
-**Recognition:**
+**Benefits:**
 - Presented at **ESUG 2025** (European Smalltalk User Group Conference, Poland)
 - Core contribution to widely-used open source project
 
