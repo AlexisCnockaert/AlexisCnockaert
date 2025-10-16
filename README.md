@@ -3,8 +3,25 @@
 ## 🌟 Featured Projects
 
 - [Cavrois]
-  - A profile configuration system for users to gain time and productivity doing tasks using Pharo tools ( source code: https://github.com/pharo-spec/NewTools )
-  - Presented at ESUG 2025 (Poland).
+A configuration management system for Pharo IDE that enables developers to save and restore personalized working environments, eliminating repetitive setup when switching between projects or tasks.
+
+**What I Built:**
+- User profile system managing IDE window layouts, tool configurations, and workspace preferences
+- Backend architecture separating configuration logic from UI presentation
+- Persistent storage for user settings with quick profile switching
+- Improved developer productivity by reducing context-switching overhead
+
+**Technical Approach:**
+- Clean separation of concerns (backend/frontend architecture)
+- Object-oriented design principles
+
+**Recognition:**
+- Presented at **ESUG 2025** (European Smalltalk User Group Conference, Poland)
+- Core contribution to widely-used open source project
+
+**Tech:** Smalltalk/Pharo • OOP • System Architecture • GitHub
+
+[ Source Code](https://github.com/pharo-spec/NewTools) 
 
 - [ToDone]
   - A Spring Boot/React application that handles a To Do List and guide the users precisely generating steps for each todo with AI
