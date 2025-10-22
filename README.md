@@ -15,12 +15,14 @@ A configuration management system for Pharo IDE that enables developers to save 
 - Presented at **ESUG 2025** (European Smalltalk User Group Conference, Poland)
 - Core contribution to widely-used open source project
 
-**Tech:** Smalltalk/Pharo • OOP • System Architecture • GitHub
+**Tech:** Smalltalk/Pharo • OOP • System Architecture 
 
 [📂 Source Code](https://github.com/pharo-spec/NewTools) 
 
 ### [ToDone]
-  A Spring Boot/React application that handles a To Do List and guide the users precisely generating steps for each todo with AI
+  A Spring Boot/React application that handles a To Do List and guide the users precisely generating steps for each todo with AI (in progress).
+
+  **Tech:** SpringBoot • ReactJS • NoSQL • Docker
   
  [📂 Source Code](https://github.com/AlexisCnockaert/react-springboot-todolist)
 
