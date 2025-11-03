@@ -1,5 +1,3 @@
-# 👋 Hi
-
 ## Featured Projects
 
 ### [Cavrois]
