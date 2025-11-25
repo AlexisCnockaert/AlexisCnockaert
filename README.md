@@ -27,5 +27,3 @@ A configuration management system for Pharo IDE that enables developers to save 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexisCnockaert-blue?logo=linkedin)](https://www.linkedin.com/in/AlexisCnockaert)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisCnockaert&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
