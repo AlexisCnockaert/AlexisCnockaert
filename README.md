@@ -17,7 +17,7 @@ A configuration management system for Pharo IDE that enables developers to save 
 
 [📂 Source Code](https://github.com/pharo-spec/NewTools) 
 
-### [ToDone]
+### [DoneIt]
   A Spring Boot/React application that handles a To Do List and guide the users precisely generating steps for each todo with AI (in progress).
 
   **Tech:** SpringBoot • ReactJS • NoSQL • Docker
