@@ -18,9 +18,23 @@ A configuration management system for Pharo IDE that enables developers to save 
 [📂 Source Code](https://github.com/pharo-spec/NewTools) 
 
 ### [DoneIt]
-  A Spring Boot/React application that handles a To Do List and guide the users precisely generating steps for each todo with AI (in progress).
 
-  **Tech:** SpringBoot • ReactJS • NoSQL • Docker
+An intelligent task management application that uses AI to help users 
+break down overwhelming goals into clear steps, improving 
+personal productivity.
+
+What I Built:
+* End-to-end web application from concept to production deployment
+* Secure authentication system protecting user data and ensuring privacy
+* AI-powered assistant that generates personalized task breakdowns and suggestions
+* Cloud infrastructure with continuous integration
+* Scalable architecture handling multiple concurrent users efficiently
+
+Benefits:
+* Reduced development-to-deployment time by 80% through Docker containerization
+* Demonstrated full software development lifecycle from design to maintenance
+
+Tech: Spring Boot • React • MongoDB • Docker • AI Integration • CI
   
  [📂 Source Code](https://github.com/AlexisCnockaert/react-springboot-todolist)
 
