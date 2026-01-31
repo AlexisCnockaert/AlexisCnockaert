@@ -4,7 +4,7 @@
 A configuration management system for Pharo IDE that enables developers to save and restore personalized working environments, eliminating repetitive setup when switching between projects or tasks.
 
 **What I Built:**
-- User profile system managing IDE window layouts, tool configurations, and workspace preferences
+- End to end user profile system managing IDE window layouts, tool configurations, and workspace preferences
 - Backend architecture separating configuration logic from UI presentation
 - Persistent storage for user settings with quick profile switching
 - Improved developer productivity by reducing context-switching overhead
