@@ -28,10 +28,11 @@ What I Built:
 * Secure authentication system protecting user data and ensuring privacy
 * AI-powered assistant that generates personalized task breakdowns and suggestions
 * Cloud infrastructure with continuous integration
-* Scalable architecture handling multiple concurrent users efficiently
+* Scalable architecture serving real users
 
 Benefits:
 * Reduced development-to-deployment time by 80% through Docker containerization
+* Successfully deployed to production 
 * Demonstrated full software development lifecycle from design to maintenance
 
 Tech: Spring Boot • React • MongoDB • Docker • AI Integration • CI
