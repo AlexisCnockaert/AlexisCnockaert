@@ -44,4 +44,4 @@ Tech: Spring Boot • React • MongoDB • Docker • AI Integration • CI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexisCnockaert-blue?logo=linkedin)](https://www.linkedin.com/in/AlexisCnockaert)
 
 
-![AlexisCnockaert's Stats](https://github-readme-stats.vercel.app/api?username=AlexisCnockaert&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlexisCnockaert?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
