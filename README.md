@@ -15,7 +15,7 @@ A configuration management system for Pharo IDE that enables developers to save 
 
 **Tech:** Smalltalk/Pharo • OOP • System Architecture 
 
-[📂 Source Code](https://github.com/pharo-spec/NewTools) 
+[📂 Source Code](https://github.com/pharo-spec/NewTools/tree/Pharo14/src/NewTools-Window-Profiles)
 
 ### [DoneIt]
 
